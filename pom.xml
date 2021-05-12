@@ -8,7 +8,7 @@
     <name>Spring MVC Example</name>
     <description>Spring MVC Hello World Example</description>
     <properties>
-        <spring.security.version>3.2.2.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
     </properties>
     <!-- Add Spring Web and MVC dependencies -->
     <dependencies>
